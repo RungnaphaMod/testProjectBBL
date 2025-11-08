@@ -1,4 +1,4 @@
-package org.example.model.entity;
+package org.example.testProjectBBL.model.entity;
 
 import lombok.Getter;
 import lombok.Setter;

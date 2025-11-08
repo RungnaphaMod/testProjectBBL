@@ -1,7 +1,7 @@
-package org.example.Business;
+package org.example.testProjectBBL.Business;
 
-import org.example.model.entity.User;
-import org.example.model.request.UserRequest;
+import org.example.testProjectBBL.model.entity.User;
+import org.example.testProjectBBL.model.request.UserRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;

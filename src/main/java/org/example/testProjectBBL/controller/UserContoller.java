@@ -1,8 +1,8 @@
-package org.example.controller;
-import org.example.Business.UserBusiness;
-import org.example.model.entity.User;
-import org.example.model.request.UserRequest;
-import org.example.model.response.ApiResponse;
+package org.example.testProjectBBL.controller;
+import org.example.testProjectBBL.Business.UserBusiness;
+import org.example.testProjectBBL.model.entity.User;
+import org.example.testProjectBBL.model.request.UserRequest;
+import org.example.testProjectBBL.model.response.ApiResponse;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

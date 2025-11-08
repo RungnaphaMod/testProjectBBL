@@ -1,4 +1,4 @@
-package org.example.model.request;
+package org.example.testProjectBBL.model.request;
 
 import lombok.Getter;
 

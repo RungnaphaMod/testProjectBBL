@@ -1,4 +1,4 @@
-package org.example.model.response;
+package org.example.testProjectBBL.model.response;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
